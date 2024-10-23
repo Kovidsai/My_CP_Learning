@@ -2,7 +2,11 @@
 *.exe
 *.o
 *.bin
+*.sh
 Input.txt
 Output.txt
 Error.txt
-*
+input.txt
+output.txt
+.vscode
+/Ignore/
